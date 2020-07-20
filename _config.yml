@@ -49,11 +49,11 @@ social_media:
 topics:
   - name: PHP
     web_url: https://github.com/topics/php
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/php/php.png
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png
 
   - name: Go
     web_url: https://github.com/topics/go
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/go/go.png
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png
     
   - name: ASP.NET Core
     web_url: https://github.com/topics/aspnet
@@ -61,12 +61,23 @@ topics:
     
   - name: Laravel 
     web_url: https://github.com/topics/laravel
-    image_url: https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png
-
-  - name: Backend Development
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png 
+    
+  - name: Vue.js 
+    web_url: https://github.com/topics/vue
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png
   
-  - name: DevOps
+  - name: Docker
+    web_url: https://github.com/topics/laravel
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
+    
+  - name: Amazon Web Service
+    web_url: https://github.com/topics/aws
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png
     
   - name: API
     web_url: https://github.com/topics/api
+    
+  - name: Data Structures
+    web_url: https://github.com/topics/data-structure
    
