@@ -30,8 +30,8 @@
     {% endif %}
     <div class="{{ metadata_styles }}">
         {% octicon discussion height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Contact Me %}
-        <a href="{{ "/contact" | relative_url }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-          {{ "Contact" }}
+        <a href="/contact" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+          Contact
         </a>
       </div>
     {% if user.location %}
