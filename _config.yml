@@ -26,7 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+      - profclems.github.io
 
 social_media:
   # behance: your_username
