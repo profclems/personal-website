@@ -25,7 +25,7 @@ projects:
   limit: 6
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
       - profclems.github.io
 
